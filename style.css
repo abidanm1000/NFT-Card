@@ -25,6 +25,7 @@ body {
     border-radius: 10px;    
     transition: all 500ms ease;
     filter: blur(2.5px);
+    box-shadow: 1px 1px 3px 1px black;
 }
 
 .container:hover {
